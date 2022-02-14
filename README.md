@@ -1,4 +1,4 @@
-# Bupa AcibademBitirme Projesi
+# Bupa Acibadem Bitirme Projesi
 Proje, online sağlık poliçesi alma platformu senaryosu üzerineydi.
 
 İki önyüz uygulaması isteniyordu.
